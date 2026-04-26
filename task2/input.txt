@@ -1,0 +1,10 @@
+Line 1: welcome to the tutorial, please give attention
+Line 2: welcome to line 2, give feedback
+Line 3: This line has give but no welcome
+Line 4: welcome to line 4, give your input
+Line 5: welcome to line 5, please give your answer
+Line 6: This line has welcome word, give your response
+Line 7: No welcome here, give remains give
+Line 8: welcome again, give me more examples
+Line 9: Regular line without welcome, give stays
+Line 10: welcome final line, give final answer
